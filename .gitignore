@@ -1,6 +1,7 @@
 # ignore python temp files
 
 *.pyc
+*.py~
 *.pyo
 env
 env*
